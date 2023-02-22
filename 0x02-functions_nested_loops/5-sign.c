@@ -5,7 +5,7 @@
  * Return: 1 for positive, -1 for negative and 0 for 0
  */
 
-int print_sign(int n);
+int print_sign(int n)
 
 {
 	if (n > 0)
