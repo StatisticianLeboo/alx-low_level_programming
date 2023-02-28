@@ -6,7 +6,7 @@
  * @b: input
  * Return: b
  */
-void reset_to_98(int b)
+void reset_to_98(int *b)
 {
 	*b = 98;
 }
