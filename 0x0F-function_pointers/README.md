@@ -1,0 +1,1 @@
+Pointers to functions. These pointers store address of functions and helps reduce redudndancy brought up by code such as case
