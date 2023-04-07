@@ -1,0 +1,1 @@
+Linked list. These are type of dymanic data structures under the linear data structure
