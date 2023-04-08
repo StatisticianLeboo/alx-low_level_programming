@@ -2,7 +2,8 @@
 
 /**
  * get_bit - will extract the bit value
- * @n is the variable
+ * @n: is the variable
+ * @index: is the index value
  */
 
 int get_bit(unsigned long int n, unsigned int index)

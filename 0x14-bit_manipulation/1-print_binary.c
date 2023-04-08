@@ -2,7 +2,7 @@
 
 /**
  * print_binary - will convert number to binary
- * @n - the variable
+ * @n: the variable
  * Return zero
  */
 
